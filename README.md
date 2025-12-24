@@ -20,10 +20,10 @@ The app fetches and displays products, allows searching, and navigates to detail
 ## 🖼 Screenshots
 
 ### Login Screen
-![Home](./screenshots/I.PNG)
+![Login](./screenshots/login.PNG)
 
 ### Product Lists
-![Product Details](./screenshots/p.PNG)
+![Product List](./screenshots/p.PNG)
 
 ### Product Details
 ![Product Details](./screenshots/pd.PNG)
