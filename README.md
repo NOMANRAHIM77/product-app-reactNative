@@ -26,10 +26,10 @@ The app fetches and displays products, allows searching, and navigates to detail
 ![Product Details](./screenshots/p.PNG)
 
 ### Product Details
-![Product Details](./screenshots/pd.png)
+![Product Details](./screenshots/pd.PNG)
 
 ### Search Feature
-![Search](./screenshots/s.png)
+![Search](./screenshots/s.PNG)
 
 ---
 
